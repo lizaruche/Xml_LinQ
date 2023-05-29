@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <debt house="13" flat="13">
+    <value>33.32</value>
+    <name>Смирнов А.М.</name>
+  </debt>
+  <debt house="12" flat="129">
+    <value>1833.32</value>
+    <name>Сергеев Т.М.</name>
+  </debt>
+  <debt house="122" flat="144">
+    <value>1833344.32</value>
+    <name>Белов Т.Г.</name>
+  </debt>
+</root>

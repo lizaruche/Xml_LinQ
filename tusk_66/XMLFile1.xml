@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<client id="11">
+		<info date="2018-05-01T00:00:00" time="PT5H13M"/>
+		<info date="2020-03-01T00:00:12" time="PT5H13M"/>
+	</client>
+	<client id="10">
+		<info date="2020-05-01T00:00:00" time="PT15H13M"/>
+		<info date="2020-03-01T00:00:00" time="PT5H13M"/>
+		<info date="2020-04-01T00:00:00" time="PT5H13M"/>
+		<info date="2019-03-01T00:00:00" time="PT5H13M"/>
+	</client>
+</root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<el11>
+		<el2>
+			<el3 attr="12"/>
+			<el3 attr3="sfd"/>
+		</el2>
+		<el2>
+		</el2>
+	</el11>
+	<el12>
+		<el2>
+			<el3 r="23" a="123"/>
+		</el2>
+	</el12>
+	<el1_1>
+		<el2>
+			<el3 r="23" a="123" aa="123"/>
+		</el2>
+	</el1_1>
+</root>

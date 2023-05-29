@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<record>
+		<house>13</house>
+		<flat>13</flat>
+		<name>Смирнов А.М.</name>
+		<debt>33.32</debt>
+	</record>
+	<record>
+		<house>12</house>
+		<flat>129</flat>
+		<name>Сергеев Т.М.</name>
+		<debt>1833.32</debt>
+	</record>
+	<record>
+		<house>122</house>
+		<flat>144</flat>
+		<name>Белов Т.Г.</name>
+		<debt>1833344.32</debt>
+	</record>
+</root>

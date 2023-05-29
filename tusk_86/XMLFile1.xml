@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<pupil name="Степанов Д.Б." class="9">
+		<info mark="4" subject="Физика" />
+	</pupil>
+	<pupil name="Баранов А.Г." class="3">
+		<info mark="3" subject="Русский язык" />
+	</pupil>
+	<pupil name="Белов Е.А." class="6">
+		<info mark="3" subject="Химия" />
+	</pupil>
+	<pupil name="Белов Е.А." class="6">
+		<info mark="3" subject="Физика" />
+	</pupil>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <line sum="116">
+    <number>12</number>
+    <number>12</number>
+    <number>12</number>
+    <number>12</number>
+    <number>34</number>
+    <number>34</number>
+  </line>
+  <line sum="226">
+    <number>12</number>
+    <number>23</number>
+    <number>34</number>
+    <number>45</number>
+    <number>56</number>
+    <number>56</number>
+  </line>
+  <line sum="861">
+    <number>4</number>
+    <number>12</number>
+    <number>34</number>
+    <number>43</number>
+    <number>234</number>
+    <number>534</number>
+  </line>
+</root>
